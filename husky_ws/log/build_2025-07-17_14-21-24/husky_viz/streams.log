@@ -1,0 +1,48 @@
+[0.013s] Invoking command in '/home/harperer123/husky_ws/build/husky_viz': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_viz -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_viz
+[0.072s] -- The C compiler identification is GNU 13.3.0
+[0.143s] -- The CXX compiler identification is GNU 13.3.0
+[0.161s] -- Detecting C compiler ABI info
+[0.265s] -- Detecting C compiler ABI info - done
+[0.277s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.277s] -- Detecting C compile features
+[0.278s] -- Detecting C compile features - done
+[0.286s] -- Detecting CXX compiler ABI info
+[0.393s] -- Detecting CXX compiler ABI info - done
+[0.405s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.405s] -- Detecting CXX compile features
+[0.406s] -- Detecting CXX compile features - done
+[0.409s] -- Found ament_cmake: 2.7.3 (/opt/ros/kilted/share/ament_cmake/cmake)
+[0.569s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.793s] -- Configuring done (0.8s)
+[0.797s] -- Generating done (0.0s)
+[0.800s] -- Build files have been written to: /home/harperer123/husky_ws/build/husky_viz
+[0.810s] Invoked command in '/home/harperer123/husky_ws/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_viz -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_viz
+[0.812s] Invoking command in '/home/harperer123/husky_ws/build/husky_viz': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/harperer123/husky_ws/build/husky_viz -- -j8 -l8
+[0.856s] Invoked command in '/home/harperer123/husky_ws/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/harperer123/husky_ws/build/husky_viz -- -j8 -l8
+[0.857s] Invoking command in '/home/harperer123/husky_ws/build/husky_viz': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/harperer123/husky_ws/build/husky_viz
+[0.865s] -- Install configuration: ""
+[0.865s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/launch
+[0.865s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/launch/view_model_launch.py
+[0.865s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/launch/view_robot.launch
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/launch/view_model.launch
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/launch/view_robot_launch.py
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/rviz
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/rviz/model.rviz
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/rviz/robot.rviz
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/rviz/test.rviz
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/ament_index/resource_index/package_run_dependencies/husky_viz
+[0.866s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/ament_index/resource_index/parent_prefix_path/husky_viz
+[0.867s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/environment/ament_prefix_path.sh
+[0.867s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/environment/ament_prefix_path.dsv
+[0.867s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/environment/path.sh
+[0.867s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/environment/path.dsv
+[0.867s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/local_setup.bash
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/local_setup.sh
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/local_setup.zsh
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/local_setup.dsv
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/package.dsv
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/ament_index/resource_index/packages/husky_viz
+[0.868s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/cmake/husky_vizConfig.cmake
+[0.869s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/cmake/husky_vizConfig-version.cmake
+[0.869s] -- Installing: /home/harperer123/husky_ws/install/husky_viz/share/husky_viz/package.xml
+[0.871s] Invoked command in '/home/harperer123/husky_ws/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/harperer123/husky_ws/build/husky_viz

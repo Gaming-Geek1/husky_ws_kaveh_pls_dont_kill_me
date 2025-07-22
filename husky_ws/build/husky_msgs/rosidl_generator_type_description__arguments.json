@@ -1,0 +1,11 @@
+{
+  "package_name": "husky_msgs",
+  "output_dir": "/home/harperer123/husky_ws/build/husky_msgs/rosidl_generator_type_description/husky_msgs",
+  "idl_tuples": [
+    "/home/harperer123/husky_ws/build/husky_msgs/rosidl_adapter/husky_msgs:msg/HuskyStatus.idl"
+  ],
+  "include_paths": [
+    "builtin_interfaces:/opt/ros/kilted/share/builtin_interfaces",
+    "std_msgs:/opt/ros/kilted/share/std_msgs"
+  ]
+}

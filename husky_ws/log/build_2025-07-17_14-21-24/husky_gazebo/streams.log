@@ -1,0 +1,35 @@
+[0.009s] Invoking command in '/home/harperer123/husky_ws/build/husky_gazebo': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_control:/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_control:/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_gazebo -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_gazebo
+[0.071s] -- The C compiler identification is GNU 13.3.0
+[0.128s] -- The CXX compiler identification is GNU 13.3.0
+[0.143s] -- Detecting C compiler ABI info
+[0.225s] -- Detecting C compiler ABI info - done
+[0.235s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.235s] -- Detecting C compile features
+[0.236s] -- Detecting C compile features - done
+[0.244s] -- Detecting CXX compiler ABI info
+[0.333s] -- Detecting CXX compiler ABI info - done
+[0.343s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.343s] -- Detecting CXX compile features
+[0.344s] -- Detecting CXX compile features - done
+[0.346s] -- Found ament_cmake: 2.7.3 (/opt/ros/kilted/share/ament_cmake/cmake)
+[0.485s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.583s] -- Found urdf: 2.12.2 (/opt/ros/kilted/share/urdf/cmake)
+[0.604s] [31mCMake Error at CMakeLists.txt:15 (find_package):
+[0.604s]   By not providing "Findxacro.cmake" in CMAKE_MODULE_PATH this project has
+[0.604s]   asked CMake to find a package configuration file provided by "xacro", but
+[0.604s]   CMake did not find one.
+[0.604s] 
+[0.605s]   Could not find a package configuration file provided by "xacro" with any of
+[0.605s]   the following names:
+[0.605s] 
+[0.605s]     xacroConfig.cmake
+[0.605s]     xacro-config.cmake
+[0.605s] 
+[0.605s]   Add the installation prefix of "xacro" to CMAKE_PREFIX_PATH or set
+[0.605s]   "xacro_DIR" to a directory containing one of the above files.  If "xacro"
+[0.605s]   provides a separate development package or SDK, be sure it has been
+[0.605s]   installed.
+[0.605s] 
+[0.605s] [0m
+[0.605s] -- Configuring incomplete, errors occurred!
+[0.609s] Invoked command in '/home/harperer123/husky_ws/build/husky_gazebo' returned '1': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_control:/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_control:/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_gazebo -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_gazebo

@@ -1,0 +1,56 @@
+[0.013s] Invoking command in '/home/harperer123/husky_ws/build/husky_control': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_control -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_control
+[0.073s] -- The C compiler identification is GNU 13.3.0
+[0.152s] -- The CXX compiler identification is GNU 13.3.0
+[0.170s] -- Detecting C compiler ABI info
+[0.271s] -- Detecting C compiler ABI info - done
+[0.282s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.282s] -- Detecting C compile features
+[0.283s] -- Detecting C compile features - done
+[0.293s] -- Detecting CXX compiler ABI info
+[0.400s] -- Detecting CXX compiler ABI info - done
+[0.413s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.413s] -- Detecting CXX compile features
+[0.414s] -- Detecting CXX compile features - done
+[0.417s] -- Found ament_cmake: 2.7.3 (/opt/ros/kilted/share/ament_cmake/cmake)
+[0.584s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.822s] -- Configuring done (0.8s)
+[0.827s] -- Generating done (0.0s)
+[0.830s] -- Build files have been written to: /home/harperer123/husky_ws/build/husky_control
+[0.838s] Invoked command in '/home/harperer123/husky_ws/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/harperer123/husky_ws/src/husky/husky_control -DCMAKE_INSTALL_PREFIX=/home/harperer123/husky_ws/install/husky_control
+[0.839s] Invoking command in '/home/harperer123/husky_ws/build/husky_control': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/harperer123/husky_ws/build/husky_control -- -j8 -l8
+[0.889s] Invoked command in '/home/harperer123/husky_ws/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/harperer123/husky_ws/build/husky_control -- -j8 -l8
+[0.891s] Invoking command in '/home/harperer123/husky_ws/build/husky_control': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/harperer123/husky_ws/build/husky_control
+[0.902s] -- Install configuration: ""
+[0.902s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config
+[0.902s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/empty.yaml
+[0.902s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/twist_mux.yaml
+[0.902s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/gazebo_interface.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/teleop_interactive_markers.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/imu_filter.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/teleop_ps4.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/localization.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/public_interface.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/teleop_logitech.yaml
+[0.903s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/config/control.yaml
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch/control.launch.py
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch/teleop.launch
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch/teleop_base.launch.py
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch/teleop_joy.launch.py
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/launch/control.launch
+[0.904s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/ament_index/resource_index/package_run_dependencies/husky_control
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/ament_index/resource_index/parent_prefix_path/husky_control
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/environment/ament_prefix_path.sh
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/environment/ament_prefix_path.dsv
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/environment/path.sh
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/environment/path.dsv
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/local_setup.bash
+[0.905s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/local_setup.sh
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/local_setup.zsh
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/local_setup.dsv
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/package.dsv
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/ament_index/resource_index/packages/husky_control
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/cmake/husky_controlConfig.cmake
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
+[0.906s] -- Installing: /home/harperer123/husky_ws/install/husky_control/share/husky_control/package.xml
+[0.907s] Invoked command in '/home/harperer123/husky_ws/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/harperer123/husky_ws/install/husky_description:/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/kilted DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/harperer123/husky_ws/build/husky_control
